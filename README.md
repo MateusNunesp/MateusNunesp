@@ -5,13 +5,12 @@
   <br/>
 
   <p align="left">
-    Atualmente sou membro de <b>Empresa Júnior</b> atuando no desenvolvimento Front-end e entusiasta de DevOps no meu tempo livre.
+    Atualmente sou membro da Síntese JR
   </p>
 
   <p align="left">
    🔭 <b>Estou trabalhando em:</b> Projetos acadêmicos e soluções para a EJ.<br>
    🌱 <b>Estou aprendendo:</b> Next.js, Tailwind CSS e Infraestrutura (Docker/Home Server).<br>
-   🎮 <b>Hobbies:</b> EA FC, Roblox e configurar meu servidor Ubuntu.<br>
    📫 <b>Contato:</b> <a href="mailto:mateusnunesp06@gmail.com">mateusnunesp06@gmail.com</a>
   </p>
 
