@@ -36,5 +36,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusNunesp&layout=compact&theme=dracula"/>
     </a>
   </div>
+
+  <img src="https://komarev.com/ghpvc/?username=MateusNunesp&label=Profile%20Views&color=bd93f9&style=flat" alt="MateusNunesp" />
   
   </div>
